@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Markdown on 林</title>
+        <link>http://localhost:1313/tags/markdown/</link>
+        <description>Recent content in Markdown on 林</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 04 Nov 2024 00:47:35 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试文稿</title>
+        <link>http://localhost:1313/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF/</link>
+        <pubDate>Mon, 04 Nov 2024 00:47:35 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF/</guid>
+        <description>&lt;img src="https://picsum.photos/800/600.webp?random=f0c9e490" alt="Featured image of post 测试文稿" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
