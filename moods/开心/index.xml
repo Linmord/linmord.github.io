@@ -7,21 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linmod.de/moods/%E5%BC%80%E5%BF%83/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hello World</title>
-        <link>https://linmod.de/diray/19223112024/</link>
+        <title>11-04</title>
+        <link>https://linmod.de/diray/241104/</link>
         <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://linmod.de/diray/19223112024/</guid>
-        <description>&lt;img src="https://linmod.de/diray/19223112024/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+        <guid>https://linmod.de/diray/241104/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/732/800/600.webp?hmac=S_vMgiOY3HD2WTMhMabE2tNZAqFq85P1HZPaQf4P8Cs" alt="Featured image of post 11-04" /&gt;&lt;p&gt;大修小修总算把这个主题折腾的差不多。&lt;/p&gt;
+&lt;p&gt;PJAX,进度条,日记模板,CSS美化,评论系统，总之经过cloudflare加速，我电信访问还挺快的。&lt;/p&gt;
+&lt;p&gt;之所以要重建博客，主要是开始意识到我的记忆在退化，未来的会在哪里也不确定，很害怕随着我的认知可能会变得更差而失去我曾经的看法和价值观念，变成另外的人。警惕与告诉自己珍惜每一刻，所以希望尽量地把此时的我，把我怎么度过的一年，都尽量保留下来。至于博文，后面再来补齐吧。&lt;/p&gt;
 </description>
         </item>
         

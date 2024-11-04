@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>生病 on Kobayashi - Memochou</title>
+        <link>https://linmod.de/moods/%E7%94%9F%E7%97%85/</link>
+        <description>Recent content in 生病 on Kobayashi - Memochou</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linmod.de/moods/%E7%94%9F%E7%97%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>11-01</title>
+        <link>https://linmod.de/diray/241101/</link>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://linmod.de/diray/241101/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/170/800/600.webp?hmac=7qzDJvXxzxbFpjALLlXvrNtkf-2mbTY3mbEVuDk1yVE" alt="Featured image of post 11-01" /&gt;&lt;p&gt;很早就醒了 但是头好晕。&lt;/p&gt;
+&lt;p&gt;翻文档的时候无意间发现一篇帖子，摩尔庄园怀旧服更新-万圣节活动。&lt;/p&gt;
+&lt;p&gt;万圣节欸，心血来潮有点怀念。想到上回把QQ账号找回来以后好像都没怎么用，用那个号加了交流群 发现这群居然是残影建的群。莫名有点想笑，13年的群还能活到现在么。翻了翻公告，残影已经不在群里了，看着是是几度转手到了小陈手里，夏日好像最开始也不是小陈。随便了，说不定是三月那班人圈不到钱了。&lt;/p&gt;
+&lt;p&gt;我记得当时在停运一段时间后，好多人拷贝FLASH资源做私服，摩2、勇士、米巴社区什么的，当时谁谁谁拉我去做站来着，那会学习压力大也就没去，一时间面临好多回忆啊。翻了翻贴吧帖子，摩2和摩勇私服关停了。 最早出单机版的千里马先生在做一个叫兔宝世界的游戏。不得不说他那个狗狗头像太有辨识度了，真的有人能坚持十年都不换的吗？&lt;/p&gt;
+&lt;p&gt;（进去注册玩了一下，但是好像没有其他人在线。可可爱爱的IP，祝成功，他们真的很坚持，不像我&amp;hellip;..）&lt;/p&gt;
+&lt;p&gt;还查了一遍FLASH的资料，本来想着能不能集成单机版到手机里，有空玩玩单机也好。没想到FLASH在移动端死的太早，以至于压根没有任何替代，不管是开源的Ruffle还是能用PaleMoon上的lightspark。还是其他奇奇怪怪的号称FLASH兼容的组件都没法启动复杂的swf。&lt;/p&gt;
+&lt;p&gt;现在的方案能查到大致是两种，一种是Flash云计算 有一家叫Puffin的 还有一家叫cheerpX。都是付费运行的软件 本质是流传输插件，另一种就是云真机了，估计是虚拟化跑浏览器，像4399游戏盒这种。不管哪种实现都不简单。麻烦地劝退。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>10-31</title>
+        <link>https://linmod.de/diray/241031/</link>
+        <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://linmod.de/diray/241031/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/781/800/600.webp?hmac=B5ptmUeJHQs1_xl9F-iLCfxd_FzxV4LwRhztdqIW47Y" alt="Featured image of post 10-31" /&gt;&lt;p&gt;感冒了今天，不能再熬夜了，我是这么告诉自己虽然做不到。&lt;/p&gt;
+&lt;p&gt;起来翻到群消息翼酱说急诊，没出事真是太好了。&lt;/p&gt;
+&lt;p&gt;贺兰转发发现了一个支持中文网节点访问的CDN PAGE&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://console.cloud.tencent.com/edgeone/pages/project/pages-tdjtrp4dyrde/index?name=vue-template&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;现在是测试状态，由于是企鹅云，所以也不知道能免费用多久 翻了下绑定域名需要备案 找了找我手里的备案域名 也快过期了还有几天就，也不是很想续费，也是用不上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;好消息 晚上喝了很多热水以后精神好多了 桌上凌乱的药瓶和包装盒 我好懒 不想收拾&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

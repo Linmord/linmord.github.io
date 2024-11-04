@@ -7,39 +7,65 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://linmod.de/diray/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hello World</title>
-        <link>https://linmod.de/diray/19223112024/</link>
+        <title>11-04</title>
+        <link>https://linmod.de/diray/241104/</link>
         <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://linmod.de/diray/19223112024/</guid>
-        <description>&lt;img src="https://linmod.de/diray/19223112024/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+        <guid>https://linmod.de/diray/241104/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/732/800/600.webp?hmac=S_vMgiOY3HD2WTMhMabE2tNZAqFq85P1HZPaQf4P8Cs" alt="Featured image of post 11-04" /&gt;&lt;p&gt;大修小修总算把这个主题折腾的差不多。&lt;/p&gt;
+&lt;p&gt;PJAX,进度条,日记模板,CSS美化,评论系统，总之经过cloudflare加速，我电信访问还挺快的。&lt;/p&gt;
+&lt;p&gt;之所以要重建博客，主要是开始意识到我的记忆在退化，未来的会在哪里也不确定，很害怕随着我的认知可能会变得更差而失去我曾经的看法和价值观念，变成另外的人。警惕与告诉自己珍惜每一刻，所以希望尽量地把此时的我，把我怎么度过的一年，都尽量保留下来。至于博文，后面再来补齐吧。&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Hello World</title>
-        <link>https://linmod.de/diray/hello-world/</link>
-        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        <title>11-03</title>
+        <link>https://linmod.de/diray/241103/</link>
+        <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://linmod.de/diray/hello-world/</guid>
-        <description>&lt;img src="https://linmod.de/diray/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+        <guid>https://linmod.de/diray/241103/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/874/800/600.webp?hmac=hRCwGlhx29Bx4vkyPfr1WZpX_ZwjWdenLza11oa44UQ" alt="Featured image of post 11-03" /&gt;&lt;p&gt;昨天经历一晚上的挣扎还是发微信给了爷爷。用了WX模块，我在微信传输助手里练习着语音交流，然后选了一些尽量还满意的语音通过模块转发给他。希望这样一来能缓解一些家里的关系。后来果然是天真太多。老人就是老人，没法说服的老人。&lt;/p&gt;
+&lt;p&gt;一直疼，好疼，不知道当时是怎么想的，就觉得对不起好多人，去给好多人发对不起，结果没有什么用，紧张感，惊恐感，一直在涌来。阿亮还给我发来安慰，问我要不要一起去烈士陵园，我不知道怎么去回答。&lt;/p&gt;
+&lt;p&gt;症状一直持续，脑子戴上了紧锢，闭着眼睛调整呼吸，循环432Hz的纯音乐。我只能最后的记时是半夜四点多，慢慢地终于还是等来了困意。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>11-02</title>
+        <link>https://linmod.de/diray/241102/</link>
+        <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://linmod.de/diray/241102/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/511/800/600.webp?hmac=37KlWqFT6y5Vg5X5JKWzuMtaIa0WVNBEfOx7Nlh3mro" alt="Featured image of post 11-02" /&gt;&lt;p&gt;有个高中生群友发的演讲分享，是开源社的集会 找了找看到微信公众号有推流，没想到还有考拉说开源也在。这个小弟弟很厉害啊 看下来在同龄人里一点也不紧张。&lt;/p&gt;
+&lt;p&gt;继续上次写网站的想法，一边翻文档一边写测试，也不知道怎么回事，久违的 我的焦虑症开始躯体化，说不好是不是感冒诱发的。翻到Allen的三字口诀，我很安全 都会过去 我很健康。好像和自己争夺了一个小时，等那种紧绷感消失的时候已经下午三点。对这个世界又陌生了很多。&lt;/p&gt;
+&lt;p&gt;查了很多 nextra vuepress hexo。最后想想 实在是不情愿依赖nodejs，还是用回hugo 。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>11-01</title>
+        <link>https://linmod.de/diray/241101/</link>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://linmod.de/diray/241101/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/170/800/600.webp?hmac=7qzDJvXxzxbFpjALLlXvrNtkf-2mbTY3mbEVuDk1yVE" alt="Featured image of post 11-01" /&gt;&lt;p&gt;很早就醒了 但是头好晕。&lt;/p&gt;
+&lt;p&gt;翻文档的时候无意间发现一篇帖子，摩尔庄园怀旧服更新-万圣节活动。&lt;/p&gt;
+&lt;p&gt;万圣节欸，心血来潮有点怀念。想到上回把QQ账号找回来以后好像都没怎么用，用那个号加了交流群 发现这群居然是残影建的群。莫名有点想笑，13年的群还能活到现在么。翻了翻公告，残影已经不在群里了，看着是是几度转手到了小陈手里，夏日好像最开始也不是小陈。随便了，说不定是三月那班人圈不到钱了。&lt;/p&gt;
+&lt;p&gt;我记得当时在停运一段时间后，好多人拷贝FLASH资源做私服，摩2、勇士、米巴社区什么的，当时谁谁谁拉我去做站来着，那会学习压力大也就没去，一时间面临好多回忆啊。翻了翻贴吧帖子，摩2和摩勇私服关停了。 最早出单机版的千里马先生在做一个叫兔宝世界的游戏。不得不说他那个狗狗头像太有辨识度了，真的有人能坚持十年都不换的吗？&lt;/p&gt;
+&lt;p&gt;（进去注册玩了一下，但是好像没有其他人在线。可可爱爱的IP，祝成功，他们真的很坚持，不像我&amp;hellip;..）&lt;/p&gt;
+&lt;p&gt;还查了一遍FLASH的资料，本来想着能不能集成单机版到手机里，有空玩玩单机也好。没想到FLASH在移动端死的太早，以至于压根没有任何替代，不管是开源的Ruffle还是能用PaleMoon上的lightspark。还是其他奇奇怪怪的号称FLASH兼容的组件都没法启动复杂的swf。&lt;/p&gt;
+&lt;p&gt;现在的方案能查到大致是两种，一种是Flash云计算 有一家叫Puffin的 还有一家叫cheerpX。都是付费运行的软件 本质是流传输插件，另一种就是云真机了，估计是虚拟化跑浏览器，像4399游戏盒这种。不管哪种实现都不简单。麻烦地劝退。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>10-31</title>
+        <link>https://linmod.de/diray/241031/</link>
+        <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://linmod.de/diray/241031/</guid>
+        <description>&lt;img src="https://fastly.picsum.photos/id/781/800/600.webp?hmac=B5ptmUeJHQs1_xl9F-iLCfxd_FzxV4LwRhztdqIW47Y" alt="Featured image of post 10-31" /&gt;&lt;p&gt;感冒了今天，不能再熬夜了，我是这么告诉自己虽然做不到。&lt;/p&gt;
+&lt;p&gt;起来翻到群消息翼酱说急诊，没出事真是太好了。&lt;/p&gt;
+&lt;p&gt;贺兰转发发现了一个支持中文网节点访问的CDN PAGE&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://console.cloud.tencent.com/edgeone/pages/project/pages-tdjtrp4dyrde/index?name=vue-template&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;现在是测试状态，由于是企鹅云，所以也不知道能免费用多久 翻了下绑定域名需要备案 找了找我手里的备案域名 也快过期了还有几天就，也不是很想续费，也是用不上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;好消息 晚上喝了很多热水以后精神好多了 桌上凌乱的药瓶和包装盒 我好懒 不想收拾&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>
         
